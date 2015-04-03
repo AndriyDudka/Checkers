@@ -1,0 +1,9 @@
+c:\users\андрей\documents\visual studio 2012\Projects\Game_Checkers\Game_Checkers\bin\Debug\Game_Checkers.exe.config
+c:\users\андрей\documents\visual studio 2012\Projects\Game_Checkers\Game_Checkers\bin\Debug\Game_Checkers.exe
+c:\users\андрей\documents\visual studio 2012\Projects\Game_Checkers\Game_Checkers\bin\Debug\Game_Checkers.pdb
+c:\users\андрей\documents\visual studio 2012\Projects\Game_Checkers\Game_Checkers\obj\Debug\Game_Checkers.csprojResolveAssemblyReference.cache
+c:\users\андрей\documents\visual studio 2012\Projects\Game_Checkers\Game_Checkers\obj\Debug\Game_Checkers.Properties.Resources.resources
+c:\users\андрей\documents\visual studio 2012\Projects\Game_Checkers\Game_Checkers\obj\Debug\Game_Checkers.csproj.GenerateResource.Cache
+c:\users\андрей\documents\visual studio 2012\Projects\Game_Checkers\Game_Checkers\obj\Debug\Game_Checkers.exe
+c:\users\андрей\documents\visual studio 2012\Projects\Game_Checkers\Game_Checkers\obj\Debug\Game_Checkers.pdb
+c:\users\андрей\documents\visual studio 2012\Projects\Game_Checkers\Game_Checkers\obj\Debug\Game_Checkers.Game.resources
